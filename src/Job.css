@@ -1,0 +1,45 @@
+.job {
+    width: 100%;
+    padding: 10px;
+
+    background-color: white;
+
+    border: 1px solid black;
+    border-radius: 10px;
+
+    opacity: 0.75;
+
+    font-size: 1.25rem;
+
+    position: relative;
+}
+
+.job .content-wrapper {
+    width: 50%;
+    display: inline-block;
+}
+
+.job button {
+    font-size: 1.75rem;
+    font-weight: 600;
+
+    height: 50px;
+    width: 150px;
+
+    position: absolute;
+    right: 3%;
+    top: 30%;
+
+    background-color: #B9BFFF;
+    color: black;
+
+    border-radius: 8px;
+    border: transparent;
+}
+
+.job h3,p {
+    width: 100%;
+    margin-right: 0px;
+    
+    margin-right: 0px;
+}

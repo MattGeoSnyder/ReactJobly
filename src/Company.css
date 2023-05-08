@@ -1,0 +1,23 @@
+.company {
+    background-color: white;
+
+    border: 1px solid black;
+    border-radius: 10px;
+
+    width: 100%;
+
+    opacity: 0.75;
+
+    font-size: 1.25rem;
+
+    padding: 15px;
+}
+
+.company a {
+    text-decoration: none;
+    color: #22277A;
+}
+
+.company a:hover {
+    text-decoration: underline;
+}

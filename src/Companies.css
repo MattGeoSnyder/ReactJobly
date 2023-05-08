@@ -1,0 +1,49 @@
+#search {
+    height: 10vh;
+}
+
+#search form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    gap: 10px;
+}
+
+#search input {
+    width: 35%;
+    height: 50%;
+    
+    font-size: 1.5rem;
+
+    border-radius: 8px;
+    border: 1px solid transparent;
+}
+
+#search button {
+    height: 50%;
+    width: 80px;
+
+    padding: 5px;
+
+    font-size: 1.25rem;
+
+    border-radius: 8px;
+    border: 1px solid transparent;
+
+    background-color: #B9BFFF;
+    color: black;
+}
+
+#companies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 15px;
+
+    padding: 0 5%;
+}
+
